@@ -20,7 +20,6 @@
 - 🔭 Lagi ngembangin **Mayzaa API Platform** (`api.mayzaa.my.id`) — backend & dashboard multi-frontend
 - 🤖 Bikin bot **WhatsApp** & **Telegram** dari nol pake Baileys
 - ⛏️ Ngoprek **Minecraft automation** pake Mineflayer
-- 🚩 Suka main **CTF** buat security challenge
 - ☁️ Percaya self-hosted & free-tier infra lebih asik
 - ⚡ Fun fact: commit message gw lebih jujur dari diary gw 😅
 
