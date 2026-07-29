@@ -66,12 +66,13 @@ Public REST API platform dengan dashboard admin, bot Telegram & WhatsApp yang te
 
 <div align="center">
 
-<img height="165" alt="Mayzaaonex's GitHub stats" src="./stats/overview.svg"/>
-<img height="165" alt="Top languages" src="./stats/languages.svg"/>
+<img width="48%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayzaaonex&theme=tokyonight"/>
+<img width="48%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayzaaonex&theme=tokyonight"/>
+
+<img width="48%" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayzaaonex&theme=tokyonight"/>
+<img width="48%" alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayzaaonex&theme=tokyonight"/>
 
 </div>
-
-<sub align="center">⚡ Auto-generated setiap hari lewat GitHub Actions — gak bergantung server pihak ketiga, jadi gak bakal ke-broken.</sub>
 
 ## 🐍 Contribution Snake
 
