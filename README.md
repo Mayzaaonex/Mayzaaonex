@@ -74,29 +74,14 @@ const mayzaa = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=2&width=100%"/>
 
-### 🏗️ What I Build
-
-| Skill                     | Level                      |
-|---------------------------|----------------------------|
-| Backend API Development   | ████████████████████ 100% |
-| Bot Development (WA/TG)   | ███████████████████░ 95%  |
-| DevOps & Deployment       | █████████████████░░░ 85%  |
-| Security Hardening        | ████████████████░░░░ 80%  |
-| Frontend Tooling          | ██████████████░░░░░░ 70%  |
-| Automation (Mineflayer)   | ████████████░░░░░░░░ 60%  |
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=2&width=100%"/>
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayzaaonex&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=c9d1d9&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayzaaonex&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=c9d1d9&cache_seconds=86400"/>
+<img height="165" alt="Mayzaaonex GitHub Stats" src="https://github-readme-stats-sigma-black.vercel.app/api?username=Mayzaaonex&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=c9d1d9&cache_seconds=86400"/>
+<img height="165" alt="Mayzaaonex Top Languages" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=Mayzaaonex&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=c9d1d9&cache_seconds=86400"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayzaaonex&theme=radical&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF"/>
+<img height="165" alt="Mayzaaonex GitHub Streak" src="https://streak-stats.demolab.com/?user=Mayzaaonex&theme=radical&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF"/>
 
 </div>
 
