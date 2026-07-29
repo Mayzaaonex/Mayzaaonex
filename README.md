@@ -14,12 +14,17 @@
 
 ### 👋 About Me
 
-- 🔧 Ngembangin **Mayzaa API Platform** — backend & dashboard
-- 🤖 Bikin bot **WhatsApp** & **Telegram**
-- 🎮 Ngoprek **Minecraft automation**
-- 🚩 Suka main **CTF** buat security challenge
-- ☁️ Self-hosted & free-tier infra enthusiast
-- 🛠️ Bikin tools personal buat belajar & fun
+```js
+const mayzaa = {
+  name: "Mayzaa",
+  role: "Backend Developer & Bot Builder",
+  project: "api.mayzaa.my.id",
+  focus: ["API Development", "WhatsApp/Telegram Bots", "Web Tooling"],
+  currently: "Ngoprek Mineflayer bot & CTF challenges",
+  believes: "Self-hosted & free-tier > paid infra",
+  funFact: "Lebih suka nulis kode daripada nulis dokumentasi 😅",
+};
+```
 
 <br>
 
@@ -69,6 +74,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=2&width=100%"/>
 
+### 🏗️ What I Build
+
+| Skill                     | Level                      |
+|---------------------------|----------------------------|
+| Backend API Development   | ████████████████████ 100% |
+| Bot Development (WA/TG)   | ███████████████████░ 95%  |
+| DevOps & Deployment       | █████████████████░░░ 85%  |
+| Security Hardening        | ████████████████░░░░ 80%  |
+| Frontend Tooling          | ██████████████░░░░░░ 70%  |
+| Automation (Mineflayer)   | ████████████░░░░░░░░ 60%  |
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=2&width=100%"/>
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -96,5 +116,9 @@
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer"/>
+
+*"Ship it, break it, fix it, repeat."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mayzaaonex&color=8E2DE2&style=flat-square&label=Profile+Views)
 
 </div>
