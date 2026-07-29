@@ -17,10 +17,9 @@
 
 <img align="right" width="40%" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif">
 
-- 🔭 Lagi ngembangin **Mayzaa API Platform** (`api.mayzaa.my.id`) — backend & dashboard multi-frontend
+- 🔭 Lagi ngembangin **Mayzaa API Platform** (`api.mayzaa.my.id`) — dashboard multi-frontend
 - 🤖 Bikin bot **WhatsApp** & **Telegram** dari nol pake Baileys
 - ⛏️ Ngoprek **Minecraft automation** pake Mineflayer
-- 🚩 Suka main **CTF** buat security challenge
 - ☁️ Percaya self-hosted & free-tier infra lebih asik
 - ⚡ Fun fact: commit message gw lebih jujur dari diary gw 😅
 
@@ -80,7 +79,6 @@ Public REST API platform dengan dashboard admin, bot Telegram & WhatsApp yang te
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
 
-<sub>(muncul otomatis setelah setup GitHub Actions — lihat catatan di bawah 👇)</sub>
 
 </div>
 
