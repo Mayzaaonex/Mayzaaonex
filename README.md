@@ -14,12 +14,12 @@
 
 ### 👋 About Me
 
-- 🔧 Ngembangin **Mayzaa API Platform** (`api.mayzaa.my.id`) — backend Node.js/Express dengan dashboard multi-frontend
-- 🤖 Bikin bot **WhatsApp** & **Telegram** dari nol pake Baileys, plugin architecture one-file-per-command
-- 🎮 Ngoprek **Minecraft automation** pake Mineflayer — auto-farm bot dengan pathfinding sendiri
+- 🔧 Ngembangin **Mayzaa API Platform** — backend & dashboard
+- 🤖 Bikin bot **WhatsApp** & **Telegram**
+- 🎮 Ngoprek **Minecraft automation**
 - 🚩 Suka main **CTF** buat security challenge
-- ☁️ Deploy dimana aja: Railway, Vercel, VPS — kalau bisa gratisan/self-hosted, kenapa harus bayar?
-- 🛠️ Bikin tools personal: music streamer, finance dashboard, cloud uploader
+- ☁️ Self-hosted & free-tier infra enthusiast
+- 🛠️ Bikin tools personal buat belajar & fun
 
 <br>
 
@@ -59,12 +59,11 @@
 
 </div>
 
-**Mayzaa API Platform** — public REST API dengan dashboard admin, sistem backup otomatis berbasis MongoDB buat container ephemeral, dua-token auth (public/admin), dan bot Telegram/WhatsApp yang konsumsi endpoint-nya sendiri.
+**Mayzaa API Platform** — public REST API platform dengan dashboard admin, dilengkapi bot Telegram & WhatsApp yang terintegrasi.
 
-- 🔐 Security-hardened: bcrypt admin auth, env-based secrets, XSS patched, rate-limit fixed
-- 🧩 Modular frontend architecture, SPA routing, multi-platform deploy (Vercel/Railway/VPS)
-- 💾 Incremental SHA256-based backup system dengan cron cycle 10 menit
-- 🐍 Custom Python API tester buat nangkep logical error, bukan cuma HTTP error
+- 🔐 Dibangun dengan best practice security
+- 🧩 Arsitektur modular, deploy multi-platform
+- 💾 Sistem reliable & terus dikembangkan
 
 <br>
 
