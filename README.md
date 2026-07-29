@@ -66,14 +66,12 @@ Public REST API platform dengan dashboard admin, bot Telegram & WhatsApp yang te
 
 <div align="center">
 
-<img height="165" alt="Mayzaaonex's GitHub stats" src="https://github-readme-stats-sigma-black.vercel.app/api?username=Mayzaaonex&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=c9d1d9&cache_seconds=86400"/>
-<img height="165" alt="Top languages" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=Mayzaaonex&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=c9d1d9&cache_seconds=86400"/>
-
-<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Mayzaaonex&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E"/>
-
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Mayzaaonex&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img height="165" alt="Mayzaaonex's GitHub stats" src="./stats/overview.svg"/>
+<img height="165" alt="Top languages" src="./stats/languages.svg"/>
 
 </div>
+
+<sub align="center">⚡ Auto-generated setiap hari lewat GitHub Actions — gak bergantung server pihak ketiga, jadi gak bakal ke-broken.</sub>
 
 ## 🐍 Contribution Snake
 
