@@ -73,8 +73,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayzaaonex&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayzaaonex&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayzaaonex&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=c9d1d9&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayzaaonex&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=c9d1d9&cache_seconds=86400"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayzaaonex&theme=radical&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF"/>
 
