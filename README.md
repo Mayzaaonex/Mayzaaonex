@@ -1,109 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Mayzaaonex&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Dev%20%7C%20Bot%20Builder%20%7C%20API%20Tinkerer&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Building+api.mayzaa.my.id+%F0%9F%9A%80;WhatsApp+%26+Telegram+Bot+Developer;Mineflayer+Automation+Enthusiast;Self-Hosted+%26+Free-Tier+Infra+Believer" alt="Typing SVG" />
-</a>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=2&width=100%"/>
-
-### 👋 About Me
-
-```js
-const mayzaa = {
-  name: "Mayzaa",
-  role: "Backend Developer & Bot Builder",
-  project: "api.mayzaa.my.id",
-  focus: ["API Development", "WhatsApp/Telegram Bots", "Web Tooling"],
-  currently: "Ngoprek Mineflayer bot & CTF challenges",
-  believes: "Self-hosted & free-tier > paid infra",
-  funFact: "Lebih suka nulis kode daripada nulis dokumentasi 😅",
-};
+```
+┌───────────────────────────────────────────────────────────────┐
+│  ●  ●  ●                  mayzaa@server: ~                     │
+└───────────────────────────────────────────────────────────────┘
 ```
 
-<br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=2&width=100%"/>
+```bash
+mayzaa@server:~$ whoami
+```
 
-### 🧰 Tech Stack
+```js
+{
+  handle: "Mayzaaonex",
+  role: "Backend Developer / Bot Builder",
+  building: "api.mayzaa.my.id",
+  stack: ["Node.js", "Express", "Python", "MongoDB"],
+  currently: "debugging IP forwarding across a proxy chain (send help)",
+  believes: "self-hosted > paid, always",
+}
+```
+
+```bash
+mayzaa@server:~$ ls ./projects
+```
+
+**`mayzaa-api/`** — public REST API platform, dashboard admin, modular routes, deploy paralel di Railway/Vercel/VPS
+**`wa-bot/`** — WhatsApp bot pake Baileys, plugin architecture satu-file-satu-command
+**`tg-bot/`** — Telegram bot terintegrasi ke API sendiri
+**`mc-farmer/`** — Mineflayer auto-farm bot, pathfinding custom buat navigasi stairs/ladder
+**`ctf-notes/`** — writeup & tools dari CTF yang pernah gw ikutin
+
+```bash
+mayzaa@server:~$ cat ./stack.txt
+```
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-0a0e0a?style=flat-square&logo=nodedotjs&logoColor=00ff9c)
+![Express](https://img.shields.io/badge/-Express-0a0e0a?style=flat-square&logo=express&logoColor=00ff9c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0a0e0a?style=flat-square&logo=javascript&logoColor=00ff9c)
+![Python](https://img.shields.io/badge/-Python-0a0e0a?style=flat-square&logo=python&logoColor=00ff9c)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0a0e0a?style=flat-square&logo=mongodb&logoColor=00ff9c)
+![Flask](https://img.shields.io/badge/-Flask-0a0e0a?style=flat-square&logo=flask&logoColor=00ff9c)
+![Linux](https://img.shields.io/badge/-Linux-0a0e0a?style=flat-square&logo=linux&logoColor=00ff9c)
+![Vercel](https://img.shields.io/badge/-Vercel-0a0e0a?style=flat-square&logo=vercel&logoColor=00ff9c)
+![Railway](https://img.shields.io/badge/-Railway-0a0e0a?style=flat-square&logo=railway&logoColor=00ff9c)
+![Git](https://img.shields.io/badge/-Git-0a0e0a?style=flat-square&logo=git&logoColor=00ff9c)
 
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=2&width=100%"/>
-
-### 🚀 Featured Project
+```bash
+mayzaa@server:~$ curl -s api.github.com/stats/mayzaaonex
+```
 
 <div align="center">
 
-<a href="https://api.mayzaa.my.id">
-<img src="https://img.shields.io/badge/🔗_Live_API-api.mayzaa.my.id-8E2DE2?style=for-the-badge"/>
-</a>
+<img height="160" alt="stats" src="https://github-readme-stats-sigma-black.vercel.app/api?username=Mayzaaonex&show_icons=true&hide_border=true&bg_color=0a0e0a&title_color=00ff9c&icon_color=00ff9c&text_color=e8e8e8&border_color=1a1f1a&cache_seconds=86400"/>
+<img height="160" alt="langs" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=Mayzaaonex&layout=compact&hide_border=true&bg_color=0a0e0a&title_color=00ff9c&text_color=e8e8e8&border_color=1a1f1a&cache_seconds=86400"/>
+
+<img height="160" alt="streak" src="https://streak-stats.demolab.com/?user=Mayzaaonex&hide_border=true&background=0a0e0a&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&border=1a1f1a&sideNums=e8e8e8&sideLabels=e8e8e8&dates=7f8c8d"/>
 
 </div>
 
-**Mayzaa API Platform** — public REST API platform dengan dashboard admin, dilengkapi bot Telegram & WhatsApp yang terintegrasi.
-
-- 🔐 Dibangun dengan best practice security
-- 🧩 Arsitektur modular, deploy multi-platform
-- 💾 Sistem reliable & terus dikembangkan
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=2&width=100%"/>
-
-### 📊 GitHub Stats
+```bash
+mayzaa@server:~$ cat ./contact.txt
+```
 
 <div align="center">
 
-<img height="165" alt="Mayzaaonex GitHub Stats" src="https://github-readme-stats-sigma-black.vercel.app/api?username=Mayzaaonex&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=c9d1d9&cache_seconds=86400"/>
-<img height="165" alt="Mayzaaonex Top Languages" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=Mayzaaonex&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=c9d1d9&cache_seconds=86400"/>
-
-<img height="165" alt="Mayzaaonex GitHub Streak" src="https://streak-stats.demolab.com/?user=Mayzaaonex&theme=radical&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF"/>
+[![API](https://img.shields.io/badge/-api.mayzaa.my.id-0a0e0a?style=flat-square&logo=fastapi&logoColor=00ff9c)](https://api.mayzaa.my.id)
+[![GitHub](https://img.shields.io/badge/-@Mayzaaonex-0a0e0a?style=flat-square&logo=github&logoColor=00ff9c)](https://github.com/Mayzaaonex)
 
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=2&width=100%"/>
-
-### 🌐 Connect
+```bash
+mayzaa@server:~$ █
+```
 
 <div align="center">
 
-<a href="https://api.mayzaa.my.id"><img src="https://img.shields.io/badge/API-4A00E0?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
-<a href="https://github.com/Mayzaaonex"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer"/>
-
-*"Ship it, break it, fix it, repeat."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mayzaaonex&color=8E2DE2&style=flat-square&label=Profile+Views)
+<sub>views: <img src="https://komarev.com/ghpvc/?username=Mayzaaonex&color=00ff9c&style=flat-square&label=" height="14"/></sub>
 
 </div>
