@@ -79,7 +79,6 @@ Public REST API platform dengan dashboard admin, bot Telegram & WhatsApp yang te
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
 
-<sub>(muncul otomatis setelah setup GitHub Actions — lihat catatan di bawah 👇)</sub>
 
 </div>
 
